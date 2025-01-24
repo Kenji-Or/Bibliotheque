@@ -118,6 +118,7 @@ Bibliotheque.java : Classe gérant les médias et les emprunts.
 Main.java : Point d'entrée pour tester le programme.
 
 
-Auteur
+Auteur 
 
-Nom : Ogier Kenji Email : kenjiogier@gmail.com
+Nom : Ogier Kenji 
+Email : kenjiogier@gmail.com
